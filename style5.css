@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    height: 300px;
+
+}
+body{
+    background-size: cover;
+}
+h1{
+    color: white;
+}
+.card-body{
+background-color: black;
+color: bisque;
+ border-radius:  20px;
+}
